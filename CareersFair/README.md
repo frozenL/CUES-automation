@@ -9,4 +9,5 @@ To send emails to companies found on CHOICE.<br/>
 1. Save the page (html file)<br/>
 2. run `python extractCompanies.py`<br/>
 3. run `python send_to_companies.py` in terminal, put attachments under directory 'CUES-automation/'<br/>
+</p>
 

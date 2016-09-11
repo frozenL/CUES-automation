@@ -1,6 +1,12 @@
 # CUES-automation/CareersFair
-Steps:<br/>
-1. copy your client_secret.json under directory 'CUES-automation/CareersFair/'<br/>
-2. run `python quickstart.py` in terminal<br/>
+<p>
+To configure Google API:<br/>
+1. Copy `client_secret.json` to directory 'CUES-automation/CareersFair/'<br/>
+2. Run `python quickstart.py`<br/>
+</p>
+<p>
+To send emails to companies found on CHOICE.<br/>
+1. Save the page (html file)<br/>
+2. run `python extractCompanies.py`<br/>
 3. run `python send_to_companies.py` in terminal, put attachments under directory 'CUES-automation/'<br/>
 
